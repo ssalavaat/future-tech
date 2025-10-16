@@ -2,4 +2,11 @@
 @use 'fonts';
 @use 'variables';
 @use 'utils';
-@use 'globals'; 
+@use 'globals';
+
+body {
+    background-color:aquamarine;
+    p {
+        color: rebeccapurple;
+    }
+}
